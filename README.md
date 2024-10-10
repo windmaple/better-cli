@@ -23,4 +23,7 @@ Curated list of replacements[^1] for terminal tools you already use
 | du        | [dust](https://github.com/bootandy/dust)                          | ![dust stars](https://img.shields.io/github/stars/bootandy/dust)          | ![dust license](https://img.shields.io/github/license/bootandy/dust)          | ![dust last commit](https://img.shields.io/github/last-commit/bootandy/dust)          |
 | awk        | [choose](https://github.com/theryangeary/choose)                          | ![choose stars](https://img.shields.io/github/stars/theryangeary/choose)          | ![choose license](https://img.shields.io/github/license/theryangeary/choose)          | ![choose last commit](https://img.shields.io/github/last-commit/theryangeary/choose)          |
 
-[^1]: Some of them may not necessarily be drop-in replacements, but this is a term that people recognize and many of these packages also claim this
+Non-cli products
+|Product|Description|
+|---|---|
+|Excalidraw||
