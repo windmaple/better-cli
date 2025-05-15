@@ -1,5 +1,5 @@
 # better-cli
-Curated list of replacements[^1] for terminal tools you already use
+Curated list of replacements for terminal tools you already use
 
 | Original   | Replacement                                                   | Stars                                                                | License                                                      | Last Commit                                                     |
 |------------|---------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|
